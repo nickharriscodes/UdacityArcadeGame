@@ -1,6 +1,18 @@
-frontend-nanodegree-arcade-game
-===============================
+# Memory Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This is my memory game project from my Udacity nanodegree on Front-End Web Development. 
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Instructions
+
+Download index.html, app.css, app.js, and the supporting images and then simply open the index.html file in your browser to start playing. 
+
+Click on one card to turn it over, and then click another to see if they match. If it's a match the cards will stay face-up, but if not, they will be hidden once more. The goal of the game is to match every card in the shortest amount of time. 
+
+## Contributing
+
+Just shoot me a pull request if you'd like to tinker with my code. I'm aware that there may be some issues in the code at the moment. It is still a work in progress. 
